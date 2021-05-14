@@ -3635,6 +3635,14 @@ export default {
         }
       },
       {
+        "value": "torso_style-1-tshirt-1-hubs-creators-black",
+        "displayName": "Hubs Creators Black",
+        "description": {
+          "Type": "style-1",
+          "Outfit": "tshirt-1-hubs-creators-black"
+        }
+      },
+      {
         "value": "torso_style-1-tshirt-1-hubs-gray",
         "displayName": "Style 1 Tshirt 1 Hubs Gray",
         "description": {
@@ -3732,6 +3740,14 @@ export default {
         }
       },
       {
+        "value": "torso_style-2-tshirt-1-hubs-creators-black",
+        "displayName": "Hubs Creators Black",
+        "description": {
+          "Type": "style-2",
+          "Outfit": "tshirt-1-hubs-creators-black"
+        }
+      },
+      {
         "value": "torso_style-2-tshirt-1-hubs-gray",
         "displayName": "Style 2 Tshirt 1 Hubs Gray",
         "description": {
@@ -3797,6 +3813,7 @@ export default {
           "sport-coat-1-dark",
           "sport-coat-1-gray",
           "tshirt-1-hubs-black",
+          "tshirt-1-hubs-creators-black",
           "tshirt-1-hubs-gray",
           "tshirt-1-hubs-light-gray",
           "tshirt-1-hubs-white",
